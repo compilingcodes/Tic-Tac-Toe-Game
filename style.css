@@ -47,3 +47,28 @@ border-radius: 12px;
     text-align: center;
   margin-top: 2vw;
 }
+
+.msg-container {
+  padding-top: 1vw;
+background-color: black;
+display: flex;
+align-items: center;
+
+flex-direction: column;
+}
+
+.msg-container #newGame {
+margin-top: 2vw;
+
+}
+
+#msg{
+   color:gold;
+   font-size: 3vw;
+   text-align: center;
+}
+
+.hide{
+    /* display: none; */
+    
+}
